@@ -1,6 +1,24 @@
-# Nvidia-sales-powerBi-dashboard
-Interactive Power BI dashboard analyzing 15,000 sales records with KPIs, DAX measures, maps, and slicers. Power BI sales analytics dashboard for tracking revenue, units sold, and performance across products, customers, and regions.
-Project overview: an interactive Power BI dashboard analyzing 15,000 synthetic sales records
-Tools: Power BI, Power Query, DAX, Excel
-Features: KPI cards, charts, a filled map, slicers
-What I did: data cleaning, DAX measures, dashboard design
+# NVIDIA Sales Analytics Dashboard
+
+Interactive Power BI dashboard analyzing 15,000 synthetic sales records to track revenue, units sold, and performance across products, customers, regions, and segments.
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+
+## Features
+- KPI cards for key sales metrics
+- Interactive charts and a filled map
+- Slicers for filtering by product, customer, and region
+
+## What I Did
+- Cleaned and transformed data using Power Query and Excel
+- Created DAX measures
+- Designed the dashboard layout and visuals
+
+## Files
+- nvidia.pbix: Power BI dashboard file
+- nvidia.pdf: PDF export of the dashboard
+- NVIDIA_Interview_PowerBI_Dataset (2).xlsx: Dataset
