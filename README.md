@@ -1,5 +1,5 @@
 # NVIDIA Sales Analytics Dashboard
-
+![NVIDIA Sales Dashboard](Screenshot%202026-11-17%20080229.png)
 Interactive Power BI dashboard analyzing 15,000 synthetic sales records to track revenue, units sold, and performance across products, customers, regions, and segments.
 
 ## Tools Used
